@@ -86,8 +86,8 @@ This project implements a RAG based ChatBot pipeline utilizing Azure OpenAI embe
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/a-myth-biswas/ChatBot.git
+   cd chatbot
    ```
 
 2. Install dependencies:
