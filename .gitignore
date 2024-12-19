@@ -1,0 +1,12 @@
+.env
+docstore_final_test.pkl
+docstore_final.pkl
+docstore.pkl
+faiss_index_test.bin
+faiss_index.bin
+final_faiss_store.pkl
+index_to_docstore_id_og.json
+index_to_docstore_id.json
+__pycache__
+.idea
+chatbot.ipynb
